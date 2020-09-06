@@ -4,4 +4,4 @@ Deep Q Learning algorithms is one of the first and also a very powerful algorith
 
 # [Temporal Difference Methods](https://github.com/Aamod1996/Temporal-Difference-Methods)
 
-Temporal Differnce methods are a model-free approach of learning from an environment. No prior knowledge of environment is required for these methods. This repository contains the implementation of 3 TD methods - SARSA,  Q-Learning and Expected SARSA. These methods are tested on 'CliffWalking-v0' environment from OpenAI gym environments.
+Temporal Difference methods are a model-free approach of learning from an environment. No prior knowledge of environment is required for these methods. This repository contains the implementation of 3 TD methods - SARSA,  Q-Learning and Expected SARSA. These methods are tested on 'CliffWalking-v0' environment from OpenAI gym environments.
