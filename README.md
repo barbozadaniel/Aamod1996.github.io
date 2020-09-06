@@ -5,3 +5,7 @@ Deep Q Learning algorithms is one of the first and also a very powerful algorith
 # [Temporal Difference Methods](https://github.com/Aamod1996/Temporal-Difference-Methods)
 
 Temporal Difference methods are a model-free approach of learning from an environment. No prior knowledge of environment is required for these methods. This repository contains the implementation of 3 TD methods - SARSA,  Q-Learning and Expected SARSA. These methods are tested on 'CliffWalking-v0' environment from OpenAI gym environments.
+
+# [Emojifier](https://github.com/Aamod1996/Emojifier)
+
+The emojifier model makes the texts more expressive. Rather than writing "Congratulations on the promotion! Lets get coffee and talk. Love you!" the emojifier can automatically turn this into "Congratulations on the promotion! 👍 Lets get coffee and talk. ☕️ Love you! ❤️". The code within this repository contains a simple Emojifier model trained with word embeddings and LSTM network.
