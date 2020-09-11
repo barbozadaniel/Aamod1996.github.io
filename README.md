@@ -11,3 +11,11 @@ Temporal Difference methods are a model-free approach of learning from an enviro
 # [Emojifier](https://github.com/Aamod1996/Emojifier)
 
 The emojifier model makes the texts more expressive. Rather than writing "Congratulations on the promotion! Lets get coffee and talk. Love you!" the emojifier can automatically turn this into "Congratulations on the promotion! 👍 Lets get coffee and talk. ☕️ Love you! ❤️". The code within this repository contains a simple Emojifier model trained with word embeddings and LSTM network.
+
+# [Deep Cross Entropy Method](https://github.com/Aamod1996/Deep-Cross-Entropy-Method)
+
+Deep Cross Entropy Methods is a very simple yet a very efficient method. You basically generate an episode using your agent and choose the observations which yielded the best results. These observations are used to train the agent and the process continues till convergence. That's how simple it is!
+
+# [Monte Carlo Methods](https://github.com/Aamod1996/Monte-Carlo-Methods)
+
+Monte Carlo Methods search for optimal solutions with the process of repeated random sampling. In this repository I have implemented 4 types of MC methods.
