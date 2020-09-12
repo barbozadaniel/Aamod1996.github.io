@@ -1,6 +1,6 @@
 # Portfolio
 
-I am actively improving my knowledge through online resources. I am currently working on Multi-Agent Reinforcement Leearning and Neural Network Optimization Using Genetic Algorithms. Here is a list of some projects which I completed. 
+I am actively improving my knowledge through online resources. I am currently working on Multi-Agent Reinforcement Learning and Neural Network Optimization Using Genetic Algorithms. Here is a list of some projects which I completed. 
 
 # [Deep Q Learning](https://github.com/Aamod1996/Deep-Q-Learning)
 
