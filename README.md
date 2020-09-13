@@ -2,6 +2,10 @@
 
 I am actively improving my knowledge through online resources. I am currently working on Multi-Agent Reinforcement Learning and Neural Network Optimization Using Genetic Algorithms. Here is a list of some projects which I completed. 
 
+# [Deep Deterministic Policy Gradients](https://github.com/Aamod1996/Deep-Deterministic-Policy-Gradients)
+
+This algorithm is an extension of actor-critic methods to continuous action spaces. These models are very powerful as they combine the best from value based methods and policy based methods into a single algorithm.
+
 # [Deep Q Learning](https://github.com/Aamod1996/Deep-Q-Learning)
 
 Deep Q Learning algorithms is one of the first and also a very powerful algorithm which combines the best from both worlds - Deep Learning and Reinforcement Learning. In this repository I have implemented the algorithm using PyTorch and tested it on an environment from Unity ML Agents. If you want to train your own agent you can follow the instructions in the repository. 
